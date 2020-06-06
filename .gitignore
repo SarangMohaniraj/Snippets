@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# OpenAI Image Data (too large, better to download and preprocess yourself instead of push to git)
+data/
